@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM02-48\\Documents\\Math\\Math\\math.csproj": {}
+    "/workspaces/math/math.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM02-48\\Documents\\Math\\Math\\math.csproj": {
+    "/workspaces/math/math.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-48\\Documents\\Math\\Math\\math.csproj",
+        "projectUniqueName": "/workspaces/math/math.csproj",
         "projectName": "math",
-        "projectPath": "c:\\Users\\APM02-48\\Documents\\Math\\Math\\math.csproj",
-        "packagesPath": "C:\\Users\\APM02-48\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-48\\Documents\\Math\\Math\\obj\\",
+        "projectPath": "/workspaces/math/math.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/math/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/dotnet/7.0.400/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
